@@ -15,5 +15,5 @@
     
   </div>
   <div>
-  ![Snake animation](http://github.com/marcus220480/marcusluiz/blob/output/github-contribution-grid-snake.svg)
+    ![snake gif](https://github.com/marcus220480/marcusluiz/blob/output/github-contribution-grid-snake.gif)
   </div>
