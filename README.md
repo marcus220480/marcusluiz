@@ -14,6 +14,8 @@
     <img align="center" alt="Marcus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     
   </div>
-  <div>
+  
+  ##
+  
     ![snake gif](https://github.com/marcus220480/marcus220480/blob/output/github-contribution-grid-snake.gif)
-  </div>
+  
